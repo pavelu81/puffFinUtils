@@ -1,0 +1,24 @@
+C:\prytanis\ZdrojoveKody\puffFinUtils\prepareSources\bin\Debug\prepareSources.exe
+C:\prytanis\ZdrojoveKody\puffFinUtils\prepareSources\bin\Debug\prepareSources.pdb
+C:\prytanis\ZdrojoveKody\puffFinUtils\prepareSources\bin\Debug\LumenWorks.Framework.IO.dll
+C:\prytanis\ZdrojoveKody\puffFinUtils\prepareSources\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\prytanis\ZdrojoveKody\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.exe
+C:\prytanis\ZdrojoveKody\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.pdb
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.exe
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.pdb
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\prepareSources\bin\Debug\prepareSources.exe
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\prepareSources\bin\Debug\prepareSources.pdb
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\prepareSources\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\prepareSources\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.exe
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.pdb
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.csprojResolveAssemblyReference.cache
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\prepareSources\bin\Debug\prepareSources.exe
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\prepareSources\bin\Debug\prepareSources.pdb
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\prepareSources\bin\Debug\LumenWorks.Framework.IO.dll
+D:\pavelu81GitHub\puffFinUtils\prepareSources\bin\Debug\prepareSources.exe
+D:\pavelu81GitHub\puffFinUtils\prepareSources\bin\Debug\prepareSources.pdb
+D:\pavelu81GitHub\puffFinUtils\prepareSources\bin\Debug\LumenWorks.Framework.IO.dll
+D:\pavelu81GitHub\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.csprojResolveAssemblyReference.cache
+D:\pavelu81GitHub\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.exe
+D:\pavelu81GitHub\puffFinUtils\prepareSources\obj\x86\Debug\prepareSources.pdb

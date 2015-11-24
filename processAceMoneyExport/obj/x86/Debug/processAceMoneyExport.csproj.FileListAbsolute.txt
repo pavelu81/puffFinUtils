@@ -1,0 +1,12 @@
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\processAceMoneyExport\bin\Debug\processAceMoneyExport.exe
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\processAceMoneyExport\bin\Debug\processAceMoneyExport.pdb
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\processAceMoneyExport\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\processAceMoneyExport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\processAceMoneyExport\obj\x86\Debug\processAceMoneyExport.exe
+C:\Users\urbanovsky\Ubuntu One\devel\puffFinUtils\processAceMoneyExport\obj\x86\Debug\processAceMoneyExport.pdb
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\processAceMoneyExport\bin\Debug\processAceMoneyExport.exe
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\processAceMoneyExport\bin\Debug\processAceMoneyExport.pdb
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\processAceMoneyExport\bin\Debug\LumenWorks.Framework.IO.dll
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\processAceMoneyExport\obj\x86\Debug\processAceMoneyExport.exe
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\processAceMoneyExport\obj\x86\Debug\processAceMoneyExport.pdb
+C:\Users\urbanovsky\Disk Google\Personal\UbuntuOne\devel\puffFinUtils\processAceMoneyExport\obj\x86\Debug\processAceMoneyExport.csprojResolveAssemblyReference.cache
