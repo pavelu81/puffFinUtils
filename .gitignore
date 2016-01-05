@@ -1,0 +1,4 @@
+*.cache
+*.exe
+prepareSources/bin/Debug/prepareSources.vshost.exe
+*.suo
